@@ -23,7 +23,7 @@ public class program_1 {
         }
 
         for (i = 0; i < 6; i++) {
-            int countRow = 0, int countColumn = 0;
+            int countRow = 0, countColumn = 0;
             for (j = 0; j < 6; j++) {
                 if (array[i][j] == 1) {
                     countRow++;
